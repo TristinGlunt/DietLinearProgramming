@@ -1,0 +1,17 @@
+C:\Users\tristin\Dropbox\Spring18\CS 362\Assignment2>python Code.py
+
+Optimal
+Servings of apples = 1.0
+Servings of chicken = 2.075
+Servings of brown rice = 6.3708333
+Servings of chips = 1.0
+Servings of spinach = 1.0
+
+The total cost is $11.35 for us to get the required daily nutrients
+
+Total Calories: 2000/2000
+Total Fat: 7/20
+Total Sodium: 342/2400
+Total Vitamin C: 90/90
+Total Vitamin A: 10176/700
+Total Protein: 93/56
